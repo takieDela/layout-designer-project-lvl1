@@ -182,8 +182,16 @@ a {
   margin-left: 30px;
 }
 
+.mt-minus-100 {
+  margin-top: -100px;
+}
+
 .mt-0 {
   margin-top: 0;
+}
+
+.pt-100 {
+  padding-top: 100px;
 }
 
 .w-350 {
