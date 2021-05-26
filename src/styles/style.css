@@ -166,6 +166,10 @@ a {
   margin: 0;
 }
 
+.mb-5 {
+  margin-bottom: 5px;
+}
+
 .mb-20 {
   margin-bottom: 20px;
 }
@@ -227,6 +231,10 @@ a {
 .flex-wrap {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+}
+
+.flex-column {
+  flex-direction: column;
 }
 
 .justify-content-between {
