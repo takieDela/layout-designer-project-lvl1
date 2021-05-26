@@ -174,8 +174,8 @@ a {
   margin-bottom: 20px;
 }
 
-.mb-25 {
-  margin-bottom: 25px;
+.mb-30 {
+  margin-bottom: 30px;
 }
 
 .ml-30 {
@@ -208,6 +208,10 @@ a {
 
 .pt-5 {
   padding-top: 5px;
+}
+
+.pb-10 {
+  padding-bottom: 10px;
 }
 
 .w-350 {
